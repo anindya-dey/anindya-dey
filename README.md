@@ -72,7 +72,7 @@ You can click the Preview link to take a look at your changes.
       <p>⭐ <a href="https://www.npmjs.com/package/tfvm" target="_blank" rel="noopener noreferrer">tfvm</a> - a NodeJS-based CLI tool that I created to manage Terraform versions on my system</p>
     </td>
     <td colspan="2"  align="center">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=andys-github&theme=radical&layout=compact&hide_title=true&hide_border=true" alt="Top 5 languages used by Anindya" title="Top 5 languages used by Anindya" height="200px" width="450px" />
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anindya-dey&theme=radical&layout=compact&hide_title=true&hide_border=true" alt="Top 5 languages used by Anindya" title="Top 5 languages used by Anindya" height="200px" width="450px" />
     </td>
   </tr>
   <tr>
@@ -145,12 +145,12 @@ You can click the Preview link to take a look at your changes.
   </tr>
   <tr align="center">
     <td colspan="3" height="300px">
-      <img src="http://github-readme-streak-stats.herokuapp.com?user=andys-github&theme=radical&hide_border=true&fire=yellow&ring=orange" alt="Anindya's Github Streak" title="Anindya's Github Streak" width="650" height="250px" />
+      <img src="http://github-readme-streak-stats.herokuapp.com?user=anindya-dey&theme=radical&hide_border=true&fire=yellow&ring=orange" alt="Anindya's Github Streak" title="Anindya's Github Streak" width="650" height="250px" />
     </td>
   </tr>
   <tr align="center">
     <td colspan="3" height="250px">
-      <img src="https://github-readme-stats.vercel.app/api?username=andys-github&show_icons=true&count_private=true&theme=radical&hide_title=true&hide_border=true" alt="Github Stats of Anindya" title="Github Stats of Anindya" width="650" height="200px" />
+      <img src="https://github-readme-stats.vercel.app/api?username=anindya-dey&show_icons=true&count_private=true&theme=radical&hide_title=true&hide_border=true" alt="Github Stats of Anindya" title="Github Stats of Anindya" width="650" height="200px" />
     </td>
   </tr>
 </table>
