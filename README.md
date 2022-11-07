@@ -1,7 +1,3 @@
-<!---
-andys-github/andys-github is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
 # <p align="center"><img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> Namaste World 🙏</p>
 ### <p align="center">I’m Anindya Dey, a software engineer from India 🙂 🇮🇳</p>
 
@@ -9,13 +5,13 @@ You can click the Preview link to take a look at your changes.
 
 <table>
   <tr>
-    <td colspan="2" height="250px">
+    <td colspan="8" height="250px">
       <p>❤️ I love the vast universe of 0s and 1s 😍</p>
       <p>🖥️ I am inspired and fascinated by open-source softwares and technologies. And I try to contribute my bit to this brilliant initiative 💻</p>
       <p>👀 Apart from programming, I’m interested in animation 🐼 and music 🎵 and I also love to play Piano 🎹 and Guitar 🎸</p>
       <p>🌱 I’m currently learning Python 🐍 and AI/ML 🤖</p>
     </td>
-    <td align="center" colspan="1">
+    <td align="center" colspan="4">
       <table>
         <tr>
           <th colspan="3">Get in touch!</th>
@@ -55,39 +51,39 @@ You can click the Preview link to take a look at your changes.
     </td>
   </tr>
   <tr>
-    <td colspan="3"></td>
+    <td colspan="12"></td>
   </tr>
   <tr>
-    <th colspan="1">
+    <th colspan="3">
       <h3>My Projects</h3>
     </th>
-    <th colspan="2">
+    <th colspan="9">
       <h3>Top 5 Languages used by me</h3>
     </th>
   </tr>
   <tr>
-    <td colspan="1" height="250px">
+    <td colspan="3">
       <p>⭐ <a href="https://anindyadey.com" target="_blank" rel="noopener noreferrer">My portfolio</a></p>
       <p>⭐ <a href="https://blog.anindyadey.com" target="_blank" rel="noopener noreferrer">My blog</a></p>
       <p>⭐ <a href="https://www.npmjs.com/package/tfvm" target="_blank" rel="noopener noreferrer">tfvm</a> - a NodeJS-based CLI tool that I created to manage Terraform versions on my system</p>
     </td>
-    <td colspan="2"  align="center">
+    <td colspan="9"  align="center">
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anindya-dey&theme=radical&layout=compact&hide_title=true&hide_border=true" alt="Top 5 languages used by Anindya" title="Top 5 languages used by Anindya" height="200px" width="450px" />
     </td>
   </tr>
   <tr>
-    <th width="500" colspan="1">
+    <th width="500" colspan="5">
       <h3>My Stack Overflow Stats</h3>
     </th>
-    <th width="250" colspan="2">
+    <th width="250" colspan="7">
       <h3>Tools and Frameworks I Use</h3>
     </th>
   </tr>
   <tr>
-    <td align="center" colspan="1" height="250px">
+    <td align="center" colspan="5">
       <img height="200px" width="550px" src="https://stackoverflow-card.vercel.app/?userID=13584363&theme=solarized-light" />
     </td>
-    <td align="center" colspan="2">
+    <td align="center" colspan="7">
       <table>
         <tr>
           <td>
@@ -144,12 +140,12 @@ You can click the Preview link to take a look at your changes.
     </td>
   </tr>
   <tr align="center">
-    <td colspan="3" height="300px">
+    <td colspan="12" height="300px">
       <img src="http://github-readme-streak-stats.herokuapp.com?user=anindya-dey&theme=radical&hide_border=true&fire=yellow&ring=orange" alt="Anindya's Github Streak" title="Anindya's Github Streak" width="650" height="250px" />
     </td>
   </tr>
   <tr align="center">
-    <td colspan="3" height="250px">
+    <td colspan="12" height="250px">
       <img src="https://github-readme-stats.vercel.app/api?username=anindya-dey&show_icons=true&count_private=true&theme=radical&hide_title=true&hide_border=true" alt="Github Stats of Anindya" title="Github Stats of Anindya" width="650" height="200px" />
     </td>
   </tr>
