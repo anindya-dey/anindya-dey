@@ -23,7 +23,7 @@
             </a>
           </td>
           <td>
-            <a href="https://www.twitter.com/anindya0101" target="_blank" rel="noopener noreferrer">
+            <a href="https://www.twitter.com/anindyadey01" target="_blank" rel="noopener noreferrer">
               <img alt="Anindya's Twitter Account" src="https://user-images.githubusercontent.com/30517208/161002854-1e3d59f7-7bed-4fa6-8ceb-0bda9850512b.svg" height="32" width="32"/>
             </a>
           </td>
@@ -63,7 +63,7 @@
   </tr>
   <tr>
     <td colspan="3">
-      <p>⭐ <a href="https://anindyadey.com" target="_blank" rel="noopener noreferrer">My portfolio</a></p>
+      <p>⭐ <a href="https://www.anindyadey.com" target="_blank" rel="noopener noreferrer">My portfolio</a></p>
       <p>⭐ <a href="https://blog.anindyadey.com" target="_blank" rel="noopener noreferrer">My blog</a></p>
       <p>⭐ <a href="https://www.npmjs.com/package/tfvm" target="_blank" rel="noopener noreferrer">tfvm</a> - a NodeJS-based CLI tool that I created to manage Terraform versions on my system</p>
     </td>
