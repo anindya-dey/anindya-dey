@@ -58,7 +58,7 @@
       <h3>My Projects</h3>
     </th>
     <th colspan="9">
-      <h3>Top 5 Languages used by me</h3>
+      <h3>My Badges</h3>
     </th>
   </tr>
   <tr>
@@ -68,12 +68,18 @@
       <p>⭐ <a href="https://www.npmjs.com/package/tfvm" target="_blank" rel="noopener noreferrer">tfvm</a> - a NodeJS-based CLI tool that I created to manage Terraform versions on my system</p>
     </td>
     <td colspan="9"  align="center">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anindya-dey&theme=radical&layout=compact&hide_title=true&hide_border=true" alt="Top 5 languages used by Anindya" title="Top 5 languages used by Anindya" height="200px" width="450px" />
+      <table>
+        <tr>
+          <td>
+            <img src="https://github.com/anindya-dey/anindya-dey/assets/30517208/d2d02e47-1ff9-4e7e-8345-cf1f94528a0e" alt="AWS Certified Cloud Practitioner Badge" title="AWS Certified Cloud Practitioner Badge" height="150px" width="150px" />
+          </td>
+        </tr>
+      </table>
     </td>
   </tr>
   <tr>
     <th width="500" colspan="5">
-      <h3>My Stack Overflow Stats</h3>
+      <h3>Top 5 Languages used by me</h3>
     </th>
     <th width="250" colspan="7">
       <h3>Tools and Frameworks I Use</h3>
@@ -81,7 +87,7 @@
   </tr>
   <tr>
     <td align="center" colspan="5">
-      <img height="200px" width="550px" src="https://stackoverflow-card.vercel.app/?userID=13584363&theme=solarized-light" />
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anindya-dey&theme=radical&layout=compact&hide_title=true&hide_border=true" alt="Top 5 languages used by Anindya" title="Top 5 languages used by Anindya" height="200px" width="450px" />
     </td>
     <td align="center" colspan="7">
       <table>
@@ -139,14 +145,27 @@
       </table>
     </td>
   </tr>
+  <!--
   <tr align="center">
     <td colspan="12" height="300px">
       <img src="http://github-readme-streak-stats.herokuapp.com?user=anindya-dey&theme=radical&hide_border=true&fire=yellow&ring=orange" alt="Anindya's Github Streak" title="Anindya's Github Streak" width="650" height="250px" />
     </td>
   </tr>
+  -->
+  <tr>
+    <th colspan="7">
+      <h3>My Stack Overflow Stats</h3>
+    </th>
+    <th colspan="5">
+      <h3>My Github Stats</h3>
+    </th>
+  </tr>
   <tr align="center">
-    <td colspan="12" height="250px">
-      <img src="https://github-readme-stats.vercel.app/api?username=anindya-dey&show_icons=true&count_private=true&theme=radical&hide_title=true&hide_border=true" alt="Github Stats of Anindya" title="Github Stats of Anindya" width="650" height="200px" />
+    <td align="center" colspan="7">
+      <img height="200px" width="550px" src="https://stackoverflow-card.vercel.app/?userID=13584363&theme=solarized-light" />
+    </td>
+    <td colspan="5" height="250px">
+      <img src="https://github-readme-stats.vercel.app/api?username=anindya-dey&show_icons=true&count_private=true&theme=radical&hide_title=true&hide_border=true" alt="Github Stats of Anindya" title="Github Stats of Anindya" width="650px" height="250px" />
     </td>
   </tr>
 </table>
