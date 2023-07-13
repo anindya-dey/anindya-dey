@@ -76,6 +76,9 @@
             </a>
           </td>
         </tr>
+        <tr>
+          <td>Valid till: <b>May 21, 2026</b></td>
+        </tr>
       </table>
     </td>
   </tr>
