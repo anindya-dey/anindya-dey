@@ -1,6 +1,5 @@
 # Logos and Images for my README
 
-
 <p>
   <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" />
   &nbsp;&nbsp;&nbsp;
@@ -72,8 +71,8 @@
   &nbsp;&nbsp;&nbsp;
   <img src="https://user-images.githubusercontent.com/30517208/166413382-079414e8-acb2-4133-9b6d-ddd0c33b4667.svg" alt="Jupyter Notebook" title="Jupyter Notebook" width="36" height="36"/>
   &nbsp;&nbsp;&nbsp;
-  <!--<img src="https://user-images.githubusercontent.com/30517208/166413388-d3253253-e0b4-480a-8fa3-857b5193fe13.svg" alt="Vercel" title="Vercel" width="36" height="36"/>
-  &nbsp;&nbsp;&nbsp;-->
+  <img src="https://user-images.githubusercontent.com/30517208/166413388-d3253253-e0b4-480a-8fa3-857b5193fe13.svg" alt="Vercel" title="Vercel" width="36" height="36"/>
+  &nbsp;&nbsp;&nbsp;
   <img src="https://user-images.githubusercontent.com/30517208/167093609-bce52b1b-32c6-4ad9-8dfc-3ceaa1288ea8.svg" alt="AWS" title="AWS" width="36" height="36"/>
   &nbsp;&nbsp;&nbsp;
   <img src="https://user-images.githubusercontent.com/30517208/166411218-aa05ffe5-a6f5-4c22-bc60-d48d8b096fb5.svg" alt="Arduino" title="Arduino" width="36" height="36" />
@@ -81,4 +80,3 @@
   <img src="https://user-images.githubusercontent.com/30517208/166411234-61956dab-3d7b-45ee-8abc-5f0f3c1b3925.svg" alt="Raspberry Pi" title="Raspberry Pi" width="36" height="36" />
   &nbsp;&nbsp;&nbsp;
 </p>
-
