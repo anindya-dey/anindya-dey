@@ -71,7 +71,9 @@
       <table>
         <tr>
           <td>
-            <img src="https://github.com/anindya-dey/anindya-dey/assets/30517208/d2d02e47-1ff9-4e7e-8345-cf1f94528a0e" alt="AWS Certified Cloud Practitioner Badge" title="AWS Certified Cloud Practitioner Badge" height="150px" width="150px" />
+            <a href="https://www.credly.com/badges/ba7b2634-3a9f-4a52-9641-4f5ee71a2db0/public_url" target="_blank">
+              <img src="https://github.com/anindya-dey/anindya-dey/assets/30517208/d2d02e47-1ff9-4e7e-8345-cf1f94528a0e" alt="AWS Certified Cloud Practitioner Badge" title="AWS Certified Cloud Practitioner Badge" height="150px" width="150px" />
+            </a>
           </td>
         </tr>
       </table>
