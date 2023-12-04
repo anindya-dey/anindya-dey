@@ -16,53 +16,15 @@
     <td colspan="12"></td>
   </tr>
   <tr>
-    <th colspan="7">
+    <th colspan="12">
       <h3>My Projects</h3>
-    </th>
-    <th colspan="5">
-      <h3>Get in touch!</h3>
     </th>
   </tr>
   <tr>
-    <td colspan="7">
+    <td colspan="12">
       <p>⭐ <a href="https://www.anindyadey.com" target="_blank" rel="noopener noreferrer">My portfolio</a></p>
       <p>⭐ <a href="https://blog.anindyadey.com" target="_blank" rel="noopener noreferrer">My blog</a></p>
       <p>⭐ <a href="https://www.npmjs.com/package/tfvm" target="_blank" rel="noopener noreferrer">tfvm</a> - a NodeJS-based CLI tool that I created to manage Terraform versions on my system</p>
-    </td>
-    <td align="center" colspan="5">
-      <table>
-        <tr>
-          <td>
-            <a href="https://www.linkedin.com/in/anindyadey" target="_blank" rel="noopener noreferrer">
-              <img alt="Anindya's LinkedIn Profile" src="https://user-images.githubusercontent.com/30517208/161002087-4cedacf2-082d-4035-b0cd-850a8d74d2de.svg" height="32" width="32"/>
-            </a>
-          </td>
-          <td>
-            <a href="https://www.twitter.com/anindyadey01" target="_blank" rel="noopener noreferrer">
-              <img alt="Anindya's Twitter Account" src="https://user-images.githubusercontent.com/30517208/161002854-1e3d59f7-7bed-4fa6-8ceb-0bda9850512b.svg" height="32" width="32"/>
-            </a>
-          </td>
-          <td>
-            <a href="mailto:andy.ani1992@gmail.com" target="_blank" rel="noopener noreferrer">
-              <img alt="Anindya's Gmail Id" src="https://user-images.githubusercontent.com/30517208/168090444-6828538a-9988-4f31-b62d-5a0887f9eeb9.svg" height="32" width="32"/>
-            </a>
-          </td>
-        </tr>
-        <tr>
-          <td>
-            <a href="https://www.instagram.com/andys_cli" target="_blank" rel="noopener noreferrer">
-              <img alt="Anindya's Instagram Account" title="@andys_corner" src="https://user-images.githubusercontent.com/30517208/161002931-eb8ee959-a911-4ce3-afe7-cc2a039df7e8.svg" height="32" width="32"/>
-            </a>
-          </td>
-          <td>
-            <a href="https://discord.gg/6aGZhKts" target="_blank" rel="noopener noreferrer">
-              <img alt="Bits n' Bytes Discord Server" title="Bits n' Bytes Discord Server" src="https://user-images.githubusercontent.com/30517208/167137999-4d84332d-9e34-4478-8161-872d8168be0a.svg" height="32" width="32"/>
-            </a>
-          </td>
-          <td>
-          </td>
-        </tr>
-      </table>
     </td>
   </tr>
   <tr>
@@ -108,6 +70,7 @@
       <img src="https://github-readme-stats.vercel.app/api?username=anindya-dey&show_icons=true&count_private=true&theme=radical&hide_title=true&hide_border=true" alt="Github Stats of Anindya" title="Github Stats of Anindya" width="650px" height="250px" />
     </td>
   </tr>
+  <!--
   <tr>
     <th width="500" colspan="5">
       <h3>Top 5 Languages used by me</h3>
@@ -171,6 +134,46 @@
           </td>
           <td>
             &nbsp;
+          </td>
+        </tr>
+      </table>
+    </td>
+  </tr>
+  -->
+  <tr>
+    <td colspan="12"></td>
+  </tr>
+  <tr>
+    <td align="center" colspan="12">
+      <table>
+        <tr>
+          <td align="center">
+            <b>Get in touch!</b>
+          </td>
+          <td>
+            <a href="https://www.linkedin.com/in/anindyadey" target="_blank" rel="noopener noreferrer">
+              <img alt="Anindya's LinkedIn Profile" src="https://user-images.githubusercontent.com/30517208/161002087-4cedacf2-082d-4035-b0cd-850a8d74d2de.svg" height="32" width="32"/>
+            </a>
+          </td>
+          <td>
+            <a href="https://www.twitter.com/anindyadey01" target="_blank" rel="noopener noreferrer">
+              <img alt="Anindya's Twitter Account" src="https://user-images.githubusercontent.com/30517208/161002854-1e3d59f7-7bed-4fa6-8ceb-0bda9850512b.svg" height="32" width="32"/>
+            </a>
+          </td>
+          <td>
+            <a href="mailto:andy.ani1992@gmail.com" target="_blank" rel="noopener noreferrer">
+              <img alt="Anindya's Gmail Id" src="https://user-images.githubusercontent.com/30517208/168090444-6828538a-9988-4f31-b62d-5a0887f9eeb9.svg" height="32" width="32"/>
+            </a>
+          </td>
+          <td>
+            <a href="https://www.instagram.com/andys_cli" target="_blank" rel="noopener noreferrer">
+              <img alt="Anindya's Instagram Account" title="@andys_corner" src="https://user-images.githubusercontent.com/30517208/161002931-eb8ee959-a911-4ce3-afe7-cc2a039df7e8.svg" height="32" width="32"/>
+            </a>
+          </td>
+          <td>
+            <a href="https://discord.gg/6aGZhKts" target="_blank" rel="noopener noreferrer">
+              <img alt="Bits n' Bytes Discord Server" title="Bits n' Bytes Discord Server" src="https://user-images.githubusercontent.com/30517208/167137999-4d84332d-9e34-4478-8161-872d8168be0a.svg" height="32" width="32"/>
+            </a>
           </td>
         </tr>
       </table>
