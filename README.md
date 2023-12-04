@@ -16,14 +16,21 @@
     <td colspan="12"></td>
   </tr>
   <tr>
-    <th colspan="6">
+    <th colspan="7">
       <h3>My Projects</h3>
     </th>
-    <td align="center" colspan="6" rowspan="2">
+    <th colspan="5">
+      <h3>Get in touch!</h3>
+    </th>
+  </tr>
+  <tr>
+    <td colspan="7">
+      <p>⭐ <a href="https://www.anindyadey.com" target="_blank" rel="noopener noreferrer">My portfolio</a></p>
+      <p>⭐ <a href="https://blog.anindyadey.com" target="_blank" rel="noopener noreferrer">My blog</a></p>
+      <p>⭐ <a href="https://www.npmjs.com/package/tfvm" target="_blank" rel="noopener noreferrer">tfvm</a> - a NodeJS-based CLI tool that I created to manage Terraform versions on my system</p>
+    </td>
+    <td align="center" colspan="5">
       <table>
-        <tr>
-          <th colspan="3">Get in touch!</th>
-        </tr>
         <tr>
           <td>
             <a href="https://www.linkedin.com/in/anindyadey" target="_blank" rel="noopener noreferrer">
@@ -56,13 +63,6 @@
           </td>
         </tr>
       </table>
-    </td>
-  </tr>
-  <tr>
-    <td colspan="6">
-      <p>⭐ <a href="https://www.anindyadey.com" target="_blank" rel="noopener noreferrer">My portfolio</a></p>
-      <p>⭐ <a href="https://blog.anindyadey.com" target="_blank" rel="noopener noreferrer">My blog</a></p>
-      <p>⭐ <a href="https://www.npmjs.com/package/tfvm" target="_blank" rel="noopener noreferrer">tfvm</a> - a NodeJS-based CLI tool that I created to manage Terraform versions on my system</p>
     </td>
   </tr>
   <tr>
