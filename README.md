@@ -5,13 +5,21 @@
 
 <table>
   <tr>
-    <td colspan="8" height="250px">
+    <td colspan="12" height="250px">
       <p>❤️ I love the vast universe of 0s and 1s 😍</p>
       <p>🖥️ I am inspired and fascinated by open-source softwares and technologies. And I try to contribute my bit to this brilliant initiative 💻</p>
       <p>👀 Apart from programming, I’m interested in animation 🐼 and music 🎵 and I also love to play Piano 🎹 and Guitar 🎸</p>
       <p>🌱 I’m currently learning Python 🐍 and AI/ML 🤖</p>
     </td>
-    <td align="center" colspan="4">
+  </tr>
+  <tr>
+    <td colspan="12"></td>
+  </tr>
+  <tr>
+    <th colspan="6">
+      <h3>My Projects</h3>
+    </th>
+    <td align="center" colspan="6" rowspan="2">
       <table>
         <tr>
           <th colspan="3">Get in touch!</th>
@@ -51,23 +59,19 @@
     </td>
   </tr>
   <tr>
-    <td colspan="12"></td>
-  </tr>
-  <tr>
-    <th colspan="3">
-      <h3>My Projects</h3>
-    </th>
-    <th colspan="9">
-      <h3>My Badges</h3>
-    </th>
-  </tr>
-  <tr>
-    <td colspan="3">
+    <td colspan="6">
       <p>⭐ <a href="https://www.anindyadey.com" target="_blank" rel="noopener noreferrer">My portfolio</a></p>
       <p>⭐ <a href="https://blog.anindyadey.com" target="_blank" rel="noopener noreferrer">My blog</a></p>
       <p>⭐ <a href="https://www.npmjs.com/package/tfvm" target="_blank" rel="noopener noreferrer">tfvm</a> - a NodeJS-based CLI tool that I created to manage Terraform versions on my system</p>
     </td>
-    <td colspan="9"  align="center">
+  </tr>
+  <tr>
+    <th colspan="12">
+      <h3>My Badges</h3>
+    </th>
+  </tr>
+  <tr align="center">
+    <td colspan="12" align="center">
       <table>
         <tr>
           <td>
@@ -75,11 +79,33 @@
               <img src="https://github.com/anindya-dey/anindya-dey/assets/30517208/d2d02e47-1ff9-4e7e-8345-cf1f94528a0e" alt="AWS Certified Cloud Practitioner Badge" title="AWS Certified Cloud Practitioner Badge" height="150px" width="150px" />
             </a>
           </td>
+          <td>
+            <a href="https://www.credly.com/badges/63cc3790-ee97-42b0-a18e-f30f5d628930/public_url" target="_blank" rel="noopener noreferrer">
+              <img src="https://github.com/anindya-dey/anindya-dey/assets/30517208/54991715-7ac4-4512-ac37-b771cd74089a" alt="AWS Certified Solutions Architect Associate Badge" title="AWS Certified Solutions Architect Associate Badge" height="150px" width="150px" />
+            </a>
+          </td>
         </tr>
         <tr>
-          <td>Valid till: <b>May 21, 2026</b></td>
+          <td>Valid Till: <b>Dec 3, 2026</b></td>
+          <td>Valid Till: <b>Dec 3, 2026</b></td>
         </tr>
       </table>
+    </td>
+  </tr>
+  <tr>
+    <th colspan="7">
+      <h3>My Stack Overflow Stats</h3>
+    </th>
+    <th colspan="5">
+      <h3>My Github Stats</h3>
+    </th>
+  </tr>
+  <tr align="center">
+    <td align="center" colspan="7">
+      <img height="300px" width="550px" src="https://stackoverflow-card.vercel.app/?userID=13584363&theme=solarized-light" />
+    </td>
+    <td colspan="5" height="250px">
+      <img src="https://github-readme-stats.vercel.app/api?username=anindya-dey&show_icons=true&count_private=true&theme=radical&hide_title=true&hide_border=true" alt="Github Stats of Anindya" title="Github Stats of Anindya" width="650px" height="250px" />
     </td>
   </tr>
   <tr>
@@ -157,22 +183,6 @@
     </td>
   </tr>
   -->
-  <tr>
-    <th colspan="7">
-      <h3>My Stack Overflow Stats</h3>
-    </th>
-    <th colspan="5">
-      <h3>My Github Stats</h3>
-    </th>
-  </tr>
-  <tr align="center">
-    <td align="center" colspan="7">
-      <img height="200px" width="550px" src="https://stackoverflow-card.vercel.app/?userID=13584363&theme=solarized-light" />
-    </td>
-    <td colspan="5" height="250px">
-      <img src="https://github-readme-stats.vercel.app/api?username=anindya-dey&show_icons=true&count_private=true&theme=radical&hide_title=true&hide_border=true" alt="Github Stats of Anindya" title="Github Stats of Anindya" width="650px" height="250px" />
-    </td>
-  </tr>
 </table>
 
 <br />
