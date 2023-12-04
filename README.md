@@ -22,9 +22,11 @@
   </tr>
   <tr>
     <td colspan="12">
+      <br />
       <p>⭐ <a href="https://www.anindyadey.com" target="_blank" rel="noopener noreferrer">My portfolio</a></p>
       <p>⭐ <a href="https://blog.anindyadey.com" target="_blank" rel="noopener noreferrer">My blog</a></p>
       <p>⭐ <a href="https://www.npmjs.com/package/tfvm" target="_blank" rel="noopener noreferrer">tfvm</a> - a NodeJS-based CLI tool that I created to manage Terraform versions on my system</p>
+      <br />
     </td>
   </tr>
   <tr>
@@ -34,6 +36,7 @@
   </tr>
   <tr align="center">
     <td colspan="12" align="center">
+      <br />
       <table>
         <tr>
           <td>
@@ -52,6 +55,7 @@
           <td>Valid Till: <b>Dec 3, 2026</b></td>
         </tr>
       </table>
+      <br />
     </td>
   </tr>
   <tr>
@@ -145,6 +149,7 @@
   </tr>
   <tr>
     <td align="center" colspan="12">
+      <br />
       <table>
         <tr>
           <td align="center">
@@ -177,6 +182,7 @@
           </td>
         </tr>
       </table>
+      <br />
     </td>
   </tr>
   <!--
