@@ -49,10 +49,16 @@
               <img src="https://github.com/anindya-dey/anindya-dey/assets/30517208/54991715-7ac4-4512-ac37-b771cd74089a" alt="AWS Certified Solutions Architect Associate Badge" title="AWS Certified Solutions Architect Associate Badge" height="150px" width="150px" />
             </a>
           </td>
+          <td>
+            <a href="https://www.credly.com/badges/1e47bb96-e195-4cb9-8780-3b10624b4245/public_url" target="_blank" rel="noopener noreferrer">
+              <img src="https://github.com/anindya-dey/anindya-dey/assets/30517208/ce07bd96-501c-41d7-8434-9b489b50010d" alt="AWS Certified Developer Associate Badge" title="AWS Certified Developer Associate Badge" height="150px" width="150px" />
+            </a>
+          </td>
         </tr>
         <tr>
+          <td>Valid Till: <b>Jan 28, 2027</b></td>
           <td>Valid Till: <b>Dec 3, 2026</b></td>
-          <td>Valid Till: <b>Dec 3, 2026</b></td>
+          <td>Valid Till: <b>Jan 28, 2027</b></td>
         </tr>
       </table>
       <br />
