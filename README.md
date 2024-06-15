@@ -66,7 +66,7 @@
   </tr>
   <tr>
     <th colspan="7">
-      <h3>My Stack Overflow Stats</h3>
+      <h3>My StackOverflow Stats</h3>
     </th>
     <th colspan="5">
       <h3>My Github Stats</h3>
@@ -80,76 +80,6 @@
       <img src="https://github-readme-stats.vercel.app/api?username=anindya-dey&show_icons=true&count_private=true&theme=radical&hide_title=true&hide_border=true" alt="Github Stats of Anindya" title="Github Stats of Anindya" width="650px" height="250px" />
     </td>
   </tr>
-  <!--
-  <tr>
-    <th width="500" colspan="5">
-      <h3>Top 5 Languages used by me</h3>
-    </th>
-    <th width="250" colspan="7">
-      <h3>Tools and Frameworks I Use</h3>
-    </th>
-  </tr>
-  <tr>
-    <td align="center" colspan="5">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anindya-dey&theme=radical&layout=compact&hide_title=true&hide_border=true" alt="Top 5 languages used by Anindya" title="Top 5 languages used by Anindya" height="200px" width="450px" />
-    </td>
-    <td align="center" colspan="7">
-      <table>
-        <tr>
-          <td>
-            <img src="https://user-images.githubusercontent.com/30517208/166412893-55883791-5914-442f-89cd-3cc817709847.svg" alt="Ubuntu" title="Ubuntu" width="36" height="36" />
-          </td>
-          <td>
-            <img src="https://user-images.githubusercontent.com/30517208/166413047-d930b935-4479-45f6-9662-e78cb4a3b869.svg" alt="VS Code" title="VS Code" width="36" height="36" />
-          </td>
-          <td>
-            <img src="https://user-images.githubusercontent.com/30517208/166413065-75940a34-c194-41c7-b741-0094dd65e351.svg" alt="Firefox" title="Firefox" width="36" height="36" />
-          </td>
-          <td>
-            <img src="https://user-images.githubusercontent.com/30517208/167129953-31d20de5-9fe4-4d2e-b23b-36bfa50b2ec4.svg" alt="Docker" title="Docker" width="36" height="36" />
-          </td>
-          <td>
-            <img src="https://user-images.githubusercontent.com/30517208/167130831-00e9a32a-1138-4584-a929-af1b8716c336.svg" alt="Terraform" title="Terraform" width="36" height="36" />
-          </td>
-        </tr>
-        <tr>
-          <td>
-            <img src="https://user-images.githubusercontent.com/30517208/167134811-61024dc3-c3a3-40bd-a2b9-8824a273e950.svg" alt="Postman" title="Postman" width="36" height="36"  />
-          </td>
-          <td>
-            <img src="https://user-images.githubusercontent.com/30517208/167131225-2eb3099d-8aac-419a-9c9e-c2bb367b9515.svg" alt="Jetbrains Rider" title="Jetbrains Rider" width="36" height="36" />
-          </td>
-          <td>
-            <img src="https://user-images.githubusercontent.com/30517208/167120236-5f39ef04-bcc4-4708-8e4a-9c4049c25494.svg" alt="React" title="React" width="36" height="36" />
-          </td>
-          <td>
-            <img src="https://user-images.githubusercontent.com/30517208/167120288-78358b7a-8fda-42dc-9ad0-04c2fe8a1bea.svg" alt="Dot Net Core" title="Dot Net Core" width="36" height="36" />
-          </td>
-          <td>
-            <img src="https://user-images.githubusercontent.com/30517208/167121759-e4089d2e-367a-4d4d-81b4-aa833a7df43a.svg" alt="Node JS" title="Node JS" width="36" height="36" />
-          </td>
-        </tr>
-        <tr>
-          <td>
-            <img src="https://user-images.githubusercontent.com/30517208/167121769-e5c60bb7-6378-4234-8dc8-154c3c789899.svg" alt="Tailwind CSS" title="Tailwind CSS" width="36" height="36" />
-          </td>
-          <td>
-            &nbsp;
-          </td>
-          <td>
-            &nbsp;
-          </td>
-          <td>
-            &nbsp;
-          </td>
-          <td>
-            &nbsp;
-          </td>
-        </tr>
-      </table>
-    </td>
-  </tr>
-  -->
   <tr>
     <td colspan="12"></td>
   </tr>
@@ -182,7 +112,7 @@
             </a>
           </td>
           <td>
-            <a href="https://discord.gg/6aGZhKts" target="_blank" rel="noopener noreferrer">
+            <a href="https://discord.gg/YuCGvm6N" target="_blank" rel="noopener noreferrer">
               <img alt="Bits n' Bytes Discord Server" title="Bits n' Bytes Discord Server" src="https://user-images.githubusercontent.com/30517208/167137999-4d84332d-9e34-4478-8161-872d8168be0a.svg" height="32" width="32"/>
             </a>
           </td>
