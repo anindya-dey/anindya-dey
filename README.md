@@ -94,22 +94,17 @@
           </td>
           <td>
             <a href="https://www.linkedin.com/in/anindyadey" target="_blank" rel="noopener noreferrer">
-              <img alt="Anindya's LinkedIn Profile" src="https://user-images.githubusercontent.com/30517208/161002087-4cedacf2-082d-4035-b0cd-850a8d74d2de.svg" height="32" width="32"/>
+              <img alt="Anindya's LinkedIn Profile" title="https://www.linkedin.com/in/anindyadey" src="https://user-images.githubusercontent.com/30517208/161002087-4cedacf2-082d-4035-b0cd-850a8d74d2de.svg" height="32" width="32"/>
             </a>
           </td>
           <td>
             <a href="https://www.twitter.com/anindyadey01" target="_blank" rel="noopener noreferrer">
-              <img alt="Anindya's Twitter Account" src="https://user-images.githubusercontent.com/30517208/161002854-1e3d59f7-7bed-4fa6-8ceb-0bda9850512b.svg" height="32" width="32"/>
-            </a>
-          </td>
-          <td>
-            <a href="mailto:andy.ani1992@gmail.com" target="_blank" rel="noopener noreferrer">
-              <img alt="Anindya's Gmail Id" src="https://user-images.githubusercontent.com/30517208/168090444-6828538a-9988-4f31-b62d-5a0887f9eeb9.svg" height="32" width="32"/>
+              <img alt="Anindya's Twitter Account" title="@anindyadey01" src="https://user-images.githubusercontent.com/30517208/161002854-1e3d59f7-7bed-4fa6-8ceb-0bda9850512b.svg" height="32" width="32"/>
             </a>
           </td>
           <td>
             <a href="https://www.instagram.com/andys_cli" target="_blank" rel="noopener noreferrer">
-              <img alt="Anindya's Instagram Account" title="@andys_corner" src="https://user-images.githubusercontent.com/30517208/161002931-eb8ee959-a911-4ce3-afe7-cc2a039df7e8.svg" height="32" width="32"/>
+              <img alt="Anindya's Instagram Account" title="@andys_cli" src="https://user-images.githubusercontent.com/30517208/161002931-eb8ee959-a911-4ce3-afe7-cc2a039df7e8.svg" height="32" width="32"/>
             </a>
           </td>
           <td>
