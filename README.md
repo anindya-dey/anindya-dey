@@ -9,7 +9,8 @@
       <p>❤️ I love the vast universe of 0s and 1s 😍</p>
       <p>🖥️ I am inspired and fascinated by open-source softwares and technologies. And I try to contribute my bit to this brilliant initiative 💻</p>
       <p>👀 Apart from programming, I’m interested in animation 🐼 and music 🎵 and I also love to play Piano 🎹 and Guitar 🎸</p>
-      <p>🌱 I’m currently learning Python 🐍 and AI/ML 🤖</p>
+      <p>🌱 I’m working as a Senior ML Engineer, with 10 years of software development experience under my belt 🤖</p>
+      <p>💻 I'm currently learning Rust 🦀</p>
     </td>
   </tr>
   <tr>
