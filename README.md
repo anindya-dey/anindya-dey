@@ -61,6 +61,20 @@
           <td>Valid Till: <b>Dec 3, 2026</b></td>
           <td>Valid Till: <b>Jan 28, 2027</b></td>
         </tr>
+        <tr>
+          <td>
+            <a href="https://www.credly.com/badges/9669d6f5-1f6d-4ca8-93e1-1364b0eff6c0/public_url" target="_blank" rel="noopener noreferrer">
+              <img src="https://github.com/user-attachments/assets/4320e6c7-20c1-442d-9b48-75a690cb289d" alt="AWS Certified AI Practitioner Badge" title="AWS Certified AI Practitioner Badge" height="150px" width="150px" />
+            </a>
+          </td>
+          <td></td>
+          <td></td>
+        </tr>
+        <tr>
+          <td>Valid Till: <b>Mar 2, 2028</b></td>
+          <td></td>
+          <td></td>
+        </tr>
       </table>
       <br />
     </td>
