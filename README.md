@@ -1,5 +1,5 @@
-<p align="center"><img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> Namaste World 🙏</p>
-<p align="center">🙂 I’m Anindya Dey, a software engineer from India 🇮🇳</p>
+# <p align="center"><img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> Namaste World 🙏</p>
+## <p align="center">🙂 I’m Anindya Dey, a software engineer from India 🇮🇳</p>
 
 <br />
 
