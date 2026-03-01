@@ -1,4 +1,6 @@
-# Logos and Images for my README
+# README Logos and Image Assets
+
+This file tracks image assets used in my GitHub profile README.
 
 <p>
   <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" />

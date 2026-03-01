@@ -1,17 +1,25 @@
 # <p align="center"><img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> Namaste World 🙏</p>
 ## <p align="center">🙂 I’m Anindya Dey, a software engineer from India 🇮🇳</p>
 
+<p align="center">
+  <a href="https://www.anindyadey.com">Portfolio</a> •
+  <a href="https://blog.anindyadey.com">Blog</a> •
+  <a href="https://github.com/anindya-dey">GitHub</a> •
+  <a href="https://www.linkedin.com/in/anindyadey">LinkedIn</a>
+</p>
+
 <br />
 
 <table>
   <tr>
     <td colspan="12" height="250px">
       <p>❤️ I love the vast universe of 0s and 1s 😍</p>
-      <p>🖥️ I am inspired and fascinated by open-source software and technologies, and I try to contribute my bit to this brilliant initiative 💻</p>
-      <p>👀 Apart from programming, I’m interested in animation 🐼 and music 🎵 and I also love to play Piano 🎹 and Guitar 🎸</p>
-      <p>🌱 I’m working as a Senior ML Engineer, with 10 years of software development experience under my belt 🤖</p>
+      <p>🖥️ I’m inspired by open-source software and enjoy contributing back to the community 💻</p>
+      <p>👀 Apart from programming, I’m interested in animation 🐼 and music 🎵, and I love playing piano 🎹 and guitar 🎸</p>
+      <p>🌱 I’m a Senior ML Engineer with 10+ years of software development experience 🤖</p>
       <p>💻 I’m currently learning Rust 🦀</p>
       <p>🚧 I’m currently building AI/ML systems and developer tooling</p>
+      <p>🤝 I’m open to collaborating on AI/ML, platform engineering, and developer tools projects</p>
     </td>
   </tr>
   <tr>
@@ -25,9 +33,9 @@
   <tr>
     <td colspan="12">
       <br />
-      <p>⭐ <a href="https://www.anindyadey.com">My portfolio</a></p>
-      <p>⭐ <a href="https://blog.anindyadey.com">My blog</a></p>
-      <p>⭐ <a href="https://www.npmjs.com/package/tfvm">tfvm</a> - a Node.js-based CLI tool that I created to manage Terraform versions on my system</p>
+      <p>⭐ <a href="https://www.anindyadey.com">My Portfolio</a></p>
+      <p>⭐ <a href="https://blog.anindyadey.com">My Blog</a></p>
+      <p>⭐ <a href="https://www.npmjs.com/package/tfvm">tfvm</a> — a Node.js CLI tool I built to manage Terraform versions</p>
       <br />
     </td>
   </tr>
@@ -84,17 +92,17 @@
     <th colspan="7">
       <h3>My Stack Overflow Stats</h3>
     </th>
-    <th colspan="5">
+    <!-- <th colspan="5">
       <h3>My GitHub Stats</h3>
-    </th>
+    </th> -->
   </tr>
   <tr align="center">
     <td align="center" colspan="7">
-      <img height="300px" width="550px" src="https://stackoverflow-card.vercel.app/?userID=13584363&theme=solarized-light" />
+      <img height="300px" width="550px" src="https://stackoverflow-card.vercel.app/?userID=13584363&theme=solarized-light" alt="Stack Overflow Stats of Anindya" title="Stack Overflow Stats of Anindya" />
     </td>
-    <td colspan="5" height="250px">
+    <!-- <td colspan="5" height="250px">
       <img src="https://github-readme-stats.vercel.app/api?username=anindya-dey&show_icons=true&count_private=true&theme=radical&hide_title=true&hide_border=true" alt="GitHub Stats of Anindya" title="GitHub Stats of Anindya" width="650px" height="250px" />
-    </td>
+    </td> -->
   </tr>
   <tr>
     <td colspan="12"></td>
