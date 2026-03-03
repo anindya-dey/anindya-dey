@@ -10,7 +10,7 @@
 
 <br />
 
-<table>
+<table align="center">
   <tr>
     <td colspan="12" height="250px">
       <p>❤️ I love the vast universe of 0s and 1s 😍</p>
