@@ -49,11 +49,6 @@
       <table>
         <tr>
           <td>
-            <a href="https://www.credly.com/badges/ba7b2634-3a9f-4a52-9641-4f5ee71a2db0/public_url">
-              <img src="https://github.com/anindya-dey/anindya-dey/assets/30517208/d2d02e47-1ff9-4e7e-8345-cf1f94528a0e" alt="AWS Certified Cloud Practitioner Badge" title="AWS Certified Cloud Practitioner Badge" height="150px" width="150px" />
-            </a>
-          </td>
-          <td>
             <a href="https://www.credly.com/badges/63cc3790-ee97-42b0-a18e-f30f5d628930/public_url">
               <img src="https://github.com/anindya-dey/anindya-dey/assets/30517208/54991715-7ac4-4512-ac37-b771cd74089a" alt="AWS Certified Solutions Architect Associate Badge" title="AWS Certified Solutions Architect Associate Badge" height="150px" width="150px" />
             </a>
@@ -65,7 +60,6 @@
           </td>
         </tr>
         <tr>
-          <td>Valid Through: <b>Jan 28, 2027</b></td>
           <td>Valid Through: <b>Dec 3, 2026</b></td>
           <td>Valid Through: <b>Jan 28, 2027</b></td>
         </tr>
@@ -75,13 +69,15 @@
               <img src="https://github.com/user-attachments/assets/4320e6c7-20c1-442d-9b48-75a690cb289d" alt="AWS Certified AI Practitioner Badge" title="AWS Certified AI Practitioner Badge" height="150px" width="150px" />
             </a>
           </td>
-          <td></td>
-          <td></td>
+          <td>
+            <a href="https://www.credly.com/badges/ba7b2634-3a9f-4a52-9641-4f5ee71a2db0/public_url">
+              <img src="https://github.com/anindya-dey/anindya-dey/assets/30517208/d2d02e47-1ff9-4e7e-8345-cf1f94528a0e" alt="AWS Certified Cloud Practitioner Badge" title="AWS Certified Cloud Practitioner Badge" height="150px" width="150px" />
+            </a>
+          </td>
         </tr>
         <tr>
           <td>Valid Through: <b>Mar 2, 2028</b></td>
-          <td></td>
-          <td></td>
+          <td>Valid Through: <b>Jan 28, 2027</b></td>
         </tr>
       </table>
       <br />
