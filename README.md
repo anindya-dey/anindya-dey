@@ -4,7 +4,6 @@
 <p align="center">
   <a href="https://www.anindyadey.com">Portfolio</a> •
   <a href="https://blog.anindyadey.com">Blog</a> •
-  <a href="https://github.com/anindya-dey">GitHub</a> •
   <a href="https://www.linkedin.com/in/anindyadey">LinkedIn</a>
 </p>
 
